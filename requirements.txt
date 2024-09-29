@@ -1,0 +1,7 @@
+numpy
+streamlit
+ipykernel
+scikit-learn
+torch
+matplotlib
+joblib
